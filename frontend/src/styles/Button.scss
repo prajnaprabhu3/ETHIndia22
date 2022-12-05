@@ -1,0 +1,25 @@
+.button{
+    background-color: var(--color-red);
+}
+
+.getStarted{
+    border-radius: 10rem;
+    padding: 0.7rem 1rem ;
+
+    padding: 0.6rem 1rem;
+}
+.btn-bottom{
+    display: flex;
+    justify-content: center;
+    
+    align-items: baseline;
+}
+.auth-box img{
+
+    padding: 20px;
+}
+.btn-border{
+    padding:10px 60px  ;
+    background-color: var(--color-bg);
+    border: 1px solid black;
+}

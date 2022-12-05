@@ -1,0 +1,17 @@
+.alerts-show-wrapper{
+    max-width: 60vw;
+   height: 30vh;
+   color: white;
+
+   .alerts-container-wrapper{
+    justify-content: space-between;
+    // background-color: green;
+   }
+
+   .alerts-container{
+    background-color: var(--color-red);
+    height: 9rem;
+    
+
+   }
+}

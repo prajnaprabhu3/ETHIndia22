@@ -1,0 +1,19 @@
+.create-alert-wrapper{
+    height: 75vh;
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+}
+
+
+.form-wrapper{
+    height: 70vh;
+    width: 30vw;
+    background-color:var(--color-red);
+
+    input{
+        width: 20rem;
+        outline: none;
+        color: rgb(94, 94, 94);
+    }
+}
